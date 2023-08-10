@@ -47,7 +47,7 @@ public class SimCard
     }
     public void IncreaseBalance(decimal amount)
     {
-        if (Balance < amount || amount <= 0)
+        if (Balance > amount || amount <= 0)
         {
             Console.WriteLine("The amount you entered is not valid");
             return;
