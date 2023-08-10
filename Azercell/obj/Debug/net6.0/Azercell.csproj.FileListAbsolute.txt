@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\Azercell\Azercell\bin\Debug\net6.0\Azercell.exe
+C:\Users\kzeyn\source\repos\Azercell\Azercell\bin\Debug\net6.0\Azercell.deps.json
+C:\Users\kzeyn\source\repos\Azercell\Azercell\bin\Debug\net6.0\Azercell.runtimeconfig.json
+C:\Users\kzeyn\source\repos\Azercell\Azercell\bin\Debug\net6.0\Azercell.dll
+C:\Users\kzeyn\source\repos\Azercell\Azercell\bin\Debug\net6.0\Azercell.pdb
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\Azercell.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\Azercell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\Azercell.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\Azercell.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\Azercell.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\Azercell.dll
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\refint\Azercell.dll
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\Azercell.pdb
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\Azercell.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\Azercell\Azercell\obj\Debug\net6.0\ref\Azercell.dll
